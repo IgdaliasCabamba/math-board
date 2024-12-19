@@ -1,0 +1,8 @@
+pyenv/
+res/tests/
+res/local_data/
+**/build
+**/dist
+**/__pycache__
+*.pyi
+*.pyc

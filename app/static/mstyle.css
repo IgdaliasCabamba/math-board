@@ -1,0 +1,19 @@
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #f0f0f0;
+    height: 100vh;
+}
+math-field {
+    width: 98vw;
+    height: 95vh;
+    border: 2px solid #000;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin-top: 10px;
+}
