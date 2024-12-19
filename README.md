@@ -1,2 +1,2 @@
-# Pyuxterm
-Pyuxterm - A powerful cross platform Terminal emulator
+# MathBoard
+MathBoard - A powerful Math Virtual Board
